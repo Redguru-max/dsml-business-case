@@ -126,6 +126,3 @@ Each folder contains:
 
 
 --- 
-
-## 📬 Contact
-If you have any questions or feedback, feel free to reach out via <a href="https://www.linkedin.com/in/aravinthvr/">LinkedIn</a> or <a href="mailto:aravinthvr@gmail.com">Email</a>.
